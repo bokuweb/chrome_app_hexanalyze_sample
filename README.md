@@ -1,0 +1,2 @@
+# chrome_app_hexanalyze_sample
+chromeAppでhexファイルを読むテスト
